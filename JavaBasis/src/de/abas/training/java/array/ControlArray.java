@@ -1,7 +1,7 @@
 package de.abas.training.java.array;
 
 public class ControlArray {
-
+//main
 	public static void main(String[] args) {
 		String[] arr = new String[2];
 
